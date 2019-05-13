@@ -2,7 +2,7 @@
 
 We are a community of 6th graders who have come together to try to show and teach future generations about Hitler's mistakes.
 
-Our goal is to get to 6million erasers to represent the 6 million jews who died in the holocaust
+Our goal is to get to 6 million erasers to represent the 11 million people who died in the holocaust
 
 ![erases](https://user-images.githubusercontent.com/50597854/57657820-8fdc9980-75aa-11e9-944e-cd204fdcf6f4.PNG)
 
