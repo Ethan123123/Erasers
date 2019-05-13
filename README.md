@@ -1,6 +1,6 @@
 ## Welcome To The Erase Hitlers Mistakes Project
 
-You can use the [editor on GitHub](https://github.com/Ethan123123/Earasers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a community of 6th graders who have come together to try and 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We were inspired by the paper clip project [There website](http://www.oneclipatatime.org/paper-clips-project/).
 
 ### Jekyll Themes
 
