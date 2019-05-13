@@ -15,4 +15,4 @@ Visit our donation page here and donate today. Every 10 cents equals one eraser.
 
 ## For information about this horrific genocide
 
-Historic Sites: .[Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust)
+Historic Sites: .[Holocaust Encyclopedia,](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust)
