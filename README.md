@@ -4,27 +4,8 @@ We are a community of 6th graders who have come together to try and showt teach 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#### Mardown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![erases](https://user-images.githubusercontent.com/50597854/57657820-8fdc9980-75aa-11e9-944e-cd204fdcf6f4.PNG)
 
 We were inspired by the Wittwell Tennesse paper clip project  .[There website](http://www.oneclipatatime.org/paper-clips-project/).
 
