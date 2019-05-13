@@ -1,6 +1,6 @@
 ## Welcome To The Erase Hitlers Mistakes Project
 
-We are a community of 6th graders who have come together to try and 
+We are a community of 6th graders who have come together to try and showt teach future generations about Hitlers mistakes.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
