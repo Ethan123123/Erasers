@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 We were inspired by the Wittwell Tennesse paper clip project  .[There website](http://www.oneclipatatime.org/paper-clips-project/).
 
-### Jekyll Themes
+### Donate know
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ethan123123/Earasers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Visit our donation page here and donate today for every 10cents equals 1 eraser our goal is 6 mill erasers [Our GoFundMe Page](https://www.gofundme.com/erasehitlermistake).
 
 ### Support or Contact
 
