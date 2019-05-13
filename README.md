@@ -1,3 +1,7 @@
+git config --global color.status.updated magenta
+git config --global color.status.untracked magenta
+git config --global color.diff.old magenta
+
 ## Welcome To The Erase Hitlers Mistakes Project
 
 You can use the [editor on GitHub](https://github.com/Ethan123123/Earasers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
