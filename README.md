@@ -10,8 +10,8 @@ We were inspired by the Wittwell Tennesse paper clip project  .[Their website](h
 
 ### Donate know
 
-Visit our donation page here and donate today for every 10cents equals 1 eraser our goal is 6 mill erasers [Our GoFundMe Page](https://www.gofundme.com/erasehitlermistake).
+Visit our donation page here and donate today. Every 10 cents equals 1 eraser our goal is 6 mill erasers [Our GoFundMe Page](https://www.gofundme.com/erasehitlermistake).
 
-### Support or Contact
+#### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
