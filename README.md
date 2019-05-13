@@ -13,6 +13,7 @@ We were inspired by the Wittwell Tennesse paper clip project  .[Their website](h
 
 Visit our donation page here and donate today. Every 10 cents equals one eraser. Our goal is 6 mill erasers [Our GoFundMe Page](https://www.gofundme.com/erasehitlermistake).
 
+
 ## For information about this horrific genocide
 
 Historic Sites: .[Holocaust Encyclopedia,](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust)
