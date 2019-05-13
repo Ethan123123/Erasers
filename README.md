@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-We were inspired by the paper clip project [There website](http://www.oneclipatatime.org/paper-clips-project/).
+We were inspired by the Wittwell Tennesse paper clip project  .[There website](http://www.oneclipatatime.org/paper-clips-project/).
 
 ### Jekyll Themes
 
