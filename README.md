@@ -1,6 +1,6 @@
 ## Welcome To The Erase Hitlers Mistakes Project
 
-We are a community of 6th graders who have come together to try show and teach future generations about Hitler's mistakes.
+We are a community of 6th graders who have come together to try to show and teach future generations about Hitler's mistakes.
 
 Our goal is to get to 6million erasers to represent the 6 million jews who died in the holocaust
 
