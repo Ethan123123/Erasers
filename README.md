@@ -6,7 +6,7 @@ Our goal is to get to 6 million erasers to represent the 11 million people who d
 
 ![erases](https://user-images.githubusercontent.com/50597854/57657820-8fdc9980-75aa-11e9-944e-cd204fdcf6f4.PNG)
 
-We were inspired by the Wittwell Tennesse paper clip project  .[There website](http://www.oneclipatatime.org/paper-clips-project/).
+We were inspired by the Wittwell Tennesse paper clip project  .[Their website](http://www.oneclipatatime.org/paper-clips-project/).
 
 ### Donate know
 
