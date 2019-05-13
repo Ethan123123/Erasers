@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome To The Erase Htlers Mistakes Project
 
 You can use the [editor on GitHub](https://github.com/Ethan123123/Earasers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
