@@ -18,7 +18,7 @@ Visit our donation page here and donate today. Every 10 cents equals one eraser.
 
 
 ## Curent Status
-
+42,000 Erasers
 
 ### Our next step
 Merchendise
