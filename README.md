@@ -22,3 +22,4 @@ Visit our donation page here and donate today. Every 10 cents equals one eraser.
 
 ### Our next step
 Merchendise
+ <div class="avatar"></div><span>Burp.</span>
