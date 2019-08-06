@@ -17,9 +17,7 @@ Visit our donation page here and donate today. Every 10 cents equals one eraser.
 ### For information about this horrific event
 
 
-## Curent Status
+ <h1> Curent Status </h>
 42,000 Erasers
 
-### Our next step
-Merchendise
- <div class="avatar"></div><span>Burp.</span>
+ <div class="avatar"></div><span> Erase hitlers mistake</span>
