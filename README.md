@@ -1,3 +1,4 @@
+<h6> Eraser porject </h6>
 ## Who we are and our goal.
 
 We are a community of 6th graders who have come together to try to show and teach future generations about Hitler's mistakes.
