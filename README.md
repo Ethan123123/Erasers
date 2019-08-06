@@ -1,4 +1,4 @@
-<h6> Eraser porject </h6>
+<h6> Eraser project </h6>
 
 <h2> Who we are and our goal. </h2>
 
